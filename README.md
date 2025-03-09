@@ -1,7 +1,7 @@
-xxtx- 👋 Hi, I’m @Vishybear
+- 👋 Hi, I’m @Vishybear
 - 👀 I’m interested in learning Git & working with python for infrastructure builds and Data Science/ML stuff
-- 🌱 I’m currently learning python, AWS, Snowflake, 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 My background is infrastructure, virtualisation, networks, cloud, architecture
+<!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ... linkedin.com/in/vishalvashisht
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I love lego and champagne
