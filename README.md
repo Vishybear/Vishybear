@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Vishybear
-- 👀 I’m interested in learning Git & working with python for infrastructure builds and Data Science/ML stuff
-- 🌱 My background is infrastructure, virtualisation, networks, cloud, architecture
+- 👀 Infrastructure and Cybersecurity Architect with an interest in AI,Data,Security & whatever else tickles my fancy
+- 🌱 My background is infrastructure, cybersecurity, virtualisation, networks, cloud, architecture
+- Director of Phat Monkey IT, an upcoming award winning MSP & consultancy based in London
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ... linkedin.com/in/vishalvashisht
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I love lego and champagne
+- ⚡ Fun fact: ... Lego Fan
 
 <!---
 Vishybear/Vishybear is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
