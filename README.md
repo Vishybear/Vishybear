@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishybear
 - 👀 Infrastructure and Cybersecurity Architect with an interest in AI,Data,Security & whatever else tickles my fancy
 - 🌱 My background is infrastructure, cybersecurity, virtualisation, networks, cloud, architecture
-- Director of Phat Monkey IT, an upcoming award winning MSP & consultancy based in London
+- Trying to push Phatmonkey as a consultancy but also still looking for contracts or a perm job. 
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me ... linkedin.com/in/vishalvashisht
 - 😄 Pronouns: ... he/him
